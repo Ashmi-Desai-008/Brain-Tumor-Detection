@@ -1,1 +1,6 @@
 # Brain-Tumor-Detection
+Medical images plays a pivotal role in the early detection and diagnosis of various heath conditions, including brain tumors. Magnetic Resonance Imaging(MRI) is a powerful diagnostic tool that provides detailed images of the brain, allowing healthcare professionals to visualize abnormalities and anomalies with high precisions.
+The aim of this project is to detect the tumor using deep learning methods in early stage. In this study, I explore the utilization of deep learning models for the detection of brain tumors from MRI images. By training and fine-tuning convolutional neural networks (CNNs) on a dataset of brain MRI scans, and to develop a robust and reliable system for automated tumor detection. The objective is to leverage the power of artificial intelligence to enhance the efficiency and accuracy of brain tumor diagnosis, ultimately contributing to improved patient care and clinical outcomes. 	
+
+## About Dataset
+The dataset comprises of a collection of MRI images categorized into two classes: "no" representing images without evidence of a brain tumor, and "yes" indicating images depicting the presence of a tumor. Each image encapsulates vital information crucial for accurate diagnosis and treatment planning.
